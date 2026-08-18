@@ -2,16 +2,13 @@
 
 ![](./images/banner.jpeg)
 
-This is a practical generative AI tutorial for accountants. It covers the following contents.
+This is a practical generative AI tutorial targeting accountants. It covers the following contents.
 
 - Understanding Generative AI: How LLM and GenAI Works
 - GenAI Risks and Ethics: Data Privacy, Human-in-the-loop Mindset
 - The Accountant’s AI Toolkit: GenAI Market Landscape & Local LLM
 - Mastering Prompt Engineering: AI-User Interaction & RICE FACT
-- From Theory to Practice: Scenario-based Labs
-- Group Peer Review: Learn From Each Others
 - Moving Beyond Prompts: Create Reusable Systems/Rules
-- Closing & Q&A: Recap & Further Learning Resources
 
 # Hello! My name is Sunny 🌞
 
@@ -37,7 +34,7 @@ This is a practical generative AI tutorial for accountants. It covers the follow
 
 # Popular GenAI Tools
 
-It is more effective to keep multiple browser tabs open for different tools at the same time.
+It is more effective to keep multiple browser tabs open for different AI tools at the same time that you can easily switch between them.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on Mac) when clicking the links below.
 
@@ -80,11 +77,6 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on M
 # 3D Tools
 
 - [Tripoai](https://studio.tripo3d.ai) - AI-powered 3D content creation platform.
-
-# Other Tech Tools for Teaching & Learning
-
-- [Google Sites](https://sites.google.com/) - Free website builder by Google, great for creating a class website or portfolio.
-- [DILLINGER](https://dillinger.io/) - Online Markdown playground/editor.
 
 # Mastering RICE FACT Effective Prompting
 
