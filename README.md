@@ -17,8 +17,9 @@ This is a practical generative AI tutorial targeting accountants. It covers the 
 [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)  
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU, HKUSPACE, Education University of Hong Kong  
-**Email**: sunny.ng@imagenation.com.hk or ngsanluk@hku.hk
-**Website**: [https://training.imagenation.com.hk](https://training.imagenation.com.hk)
+**Email**: sunny.ng@imagenation.com.hk or ngsanluk@hku.hk  
+**Website**: [https://training.imagenation.com.hk](https://training.imagenation.com.hk)  
+**LinkedIn**: [https://www.linkedin.com/in/ngsunny/](https://www.linkedin.com/in/ngsunny/)
 
 # Useful Keyboard Shortcuts
 
