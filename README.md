@@ -217,3 +217,47 @@ Tone        →
 ```
 
 ---
+
+# Let's Practice Image Editing to Better Understand Effective Prompting
+
+Although prompting for text generation is different from prompting for image generation, the underlying principles of effective prompting remain the same. By practicing image editing, you can gain a better understanding of how to structure your prompts effectively. Followed by that, you can apply the same principles to accounting related tasks and other AI tasks.
+
+Let's first experience how VisualGPT make it so easy to edit images by just uploading you photo/image without any technical knowledge or photo editing knowledge.
+
+Open the following page on VisualGTP to experience just by upload your image + one click, AI will do the difficult photoshop works that it previously takes hours to complete.
+
+[https://visualgpt.io/room-cleaner](https://visualgpt.io/room-cleaner)
+[![](https://cdn.static-boost.com/visualgpt/static/demo/demo-room-cleaner.webp)](https://visualgpt.io/room-cleaner)
+
+There are many photo editing tools on VisualGPT that works the same way - just upload your image and it does difficult photoshop works for you. The true is VisualGPT is dedicated the real image editing works to the AI engine. They have pre-written prompts for each photo editing effect that will be sent to the AI engine to generate the final image.
+
+## Understanding Visual Design Language
+
+You can also write your own prompts to instruct your own favorite AI to do the same tasks. Many AI assistants out there are multi-modal, meaning they can generate multiple forms of contents such as texts, images, videos, music and programming codes.
+
+The key is one must understand visual design language so as to effective prompt AI to complete your image editing tasks. The more you practice, the better you will understand how to effectively prompt AI to complete your tasks. The same principles can be applied to accounting related tasks and other AI tasks.
+
+## Let's Practice One More Using Our Own Prompt
+
+You can feed image and ask Gemini to edit the image(s) based on your instructions. For example, you can ask Gemini to change the background of an image, add or remove certain elements, or apply specific filters to enhance the visual appeal of the image.
+
+```
+Turn this photo into a character figure.
+Behind it, place a figure box with the character image printed on it,
+and a computer showing the Blender modeling process on its screen.
+In front of the box, add a round plastic base with the figure placed on it.
+Use the figure's vinyl material.
+Set the scene in home studio
+```
+
+![](./images/bruce-lee.jpeg)
+
+![](./images/gemini-bruce-lee-figure.png)
+
+## Image as Style Reference
+
+You can also feed image as style reference and instruct Gemini to use it as target style to edit your own image in the same style.
+
+## Reverse Engineering
+
+In Visual GPT, you can use the **Image to Prompt** to reverse-engineer an image to texts description and then use the generated texts as prompt to create a new image. This is feeding an image to an AI model and asking it to use NPL to produce a text description of the image. That's why it's call reverse engineering.
